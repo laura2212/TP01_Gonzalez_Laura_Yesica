@@ -6,7 +6,6 @@ public void setup(){
   calcularHipotenusa();
   println("La hipotenusa de un triangulo con valor de base = " + cateto1);
   println("y altura = "+ cateto2 + " es de " + hipotenusa);
-  
 }
 
 public void calcularHipotenusa(){
